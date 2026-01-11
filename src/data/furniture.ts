@@ -38,6 +38,7 @@ export const categories: Category[] = [
     nameEn: "Bedroom",
     subcategories: [
       { id: "serer", nameAr: "سرير", nameEn: "Bed" },
+      { id: "serer2", nameAr: "سرير 2", nameEn: "Bed 2" },
       { id: "dolab", nameAr: "دولاب", nameEn: "Wardrobe" },
       { id: "komedino", nameAr: "كومودينو", nameEn: "Nightstand" },
       { id: "tasreha", nameAr: "تسريحة", nameEn: "Dressing Table" },
@@ -98,6 +99,32 @@ export const furnitureItems: FurnitureItem[] = [
     image: "/images/Noum/Serer/e293b48a0f9a0f9a00211ec84b70b5d2_1800x1800.jpg",
     category: "noum",
     subcategory: "serer",
+  },
+
+  // Noum - Serer2 (Bedroom - Bed 2)
+  {
+    id: "noum-serer2-1",
+    image: "/images/Noum/Serer2/malm-bed-frame-high-w-4-storage-boxes-black-brown-leirsund__0730840_pe737813_s5.avif",
+    category: "noum",
+    subcategory: "serer2",
+  },
+  {
+    id: "noum-serer2-2",
+    image: "/images/Noum/Serer2/malm-bed-frame-high-w-4-storage-boxes-black-brown-leirsund__1101552_pe866728_s5.avif",
+    category: "noum",
+    subcategory: "serer2",
+  },
+  {
+    id: "noum-serer2-3",
+    image: "/images/Noum/Serer2/malm-bed-frame-high-w-4-storage-boxes-black-brown-leirsund__1154405_pe886052_s5.avif",
+    category: "noum",
+    subcategory: "serer2",
+  },
+  {
+    id: "noum-serer2-4",
+    image: "/images/Noum/Serer2/malm-bed-frame-high-w-4-storage-boxes-black-brown-leirsund__1154412_pe886059_s5.avif",
+    category: "noum",
+    subcategory: "serer2",
   },
 
   // Noum - Dolab (Bedroom - Wardrobe)
