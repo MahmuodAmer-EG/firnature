@@ -186,6 +186,12 @@ export const furnitureItems: FurnitureItem[] = [
     category: "noum",
     subcategory: "tasreha",
   },
+  {
+    id: "noum-tasreha-3",
+    image: "/images/Noum/Tasreha/PH164948-crop004.avif",
+    category: "noum",
+    subcategory: "tasreha",
+  },
 
   // Soufra (Dining)
   {
